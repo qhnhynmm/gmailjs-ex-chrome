@@ -14,8 +14,9 @@
   "author": "Jostein kjønigsen",
   "license": "ISC",
   "dependencies": {
-    "gmail-js": "^1.1.14",
-    "jquery": "^4.0.0-beta"
+    "gmail-js": "^1.1.15",
+    "jquery": "^4.0.0-beta",
+    "openai": "^4.67.3"
   },
   "devDependencies": {
     "esbuild": "^0.24.0"

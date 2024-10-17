@@ -1,0 +1,40 @@
+/* CSS cho hộp thoại tóm tắt */
+#summary-dialog {
+    position: fixed;
+    right: 20px;
+    top: 100px;
+    width: 300px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    z-index: 9999;
+    font-family: Arial, sans-serif;
+    border-radius: 8px;
+}
+
+#summary-dialog h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+#summary-dialog p {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+#summary-dialog button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#summary-dialog button:hover {
+    background-color: #d32f2f;
+}
