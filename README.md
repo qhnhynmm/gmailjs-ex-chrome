@@ -11,12 +11,6 @@ the [gmail.js](https://github.com/KartikTalwar/gmail.js/) library.
 
 First get the code and build it:
 
-````
-# get code
-git clone https://github.com/josteink/gmailjs-node-boilerplate/
-
-# get deps and build
-cd gmailjs-node-boilerplate
 npm install
 # ensure you're running latest version!
 npm update
