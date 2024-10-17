@@ -11,6 +11,8 @@ the [gmail.js](https://github.com/KartikTalwar/gmail.js/) library.
 
 First get the code and build it:
 
+````
+
 npm install
 # ensure you're running latest version!
 npm update
