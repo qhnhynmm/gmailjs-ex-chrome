@@ -11,7 +11,7 @@
     "build": "npm run stage && npm run bundle",
     "dev": "npm run bundle -- --watch"
   },
-  "author": "Jostein kjønigsen",
+  "author": "HUY.Q.P",
   "license": "ISC",
   "dependencies": {
     "gmail-js": "^1.1.15",

@@ -24,3 +24,5 @@ $.extend({
 // don't mess up too bad if we have several gmail.js-based
 // extensions loaded at the same time!
 window._gmailjs = window._gmailjs || new GmailFactory.Gmail($);
+console.log("gmailJsLoader.js loaded into Gmail page");
+
